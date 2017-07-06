@@ -99,7 +99,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "cryptonight.usa.nicehash.com:3355",
-"wallet_address" : "3DpBcz7N8CC6fY5TBtb3SDugdXohFbYxGY.azureF4",
+"wallet_address" : "3DpBcz7N8CC6fY5TBtb3SDugdXohFbYxGY.google4core",
 "pool_password" : "",
 
 /*
