@@ -28,6 +28,10 @@
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 2 },
    { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 3 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 4 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 5 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 6 },
+   { "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 7 },
 ],
 /*
  * LARGE PAGE SUPPORT
@@ -99,7 +103,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "cryptonight.usa.nicehash.com:3355",
-"wallet_address" : "3DpBcz7N8CC6fY5TBtb3SDugdXohFbYxGY.azureF4",
+"wallet_address" : "3DpBcz7N8CC6fY5TBtb3SDugdXohFbYxGY.azureF8",
 "pool_password" : "",
 
 /*
