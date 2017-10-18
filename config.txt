@@ -115,7 +115,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "cryptonight.eu.nicehash.com:3355",
+"pool_address" : "cryptonight.usa.nicehash.com:3355",
 "wallet_address" : "3DpBcz7N8CC6fY5TBtb3SDugdXohFbYxGY.test",
 "pool_password" : "",
 
@@ -133,8 +133,8 @@
  * giveup_limit - Limit how many times we try to reconnect to the pool. Zero means no limit. Note that stak miners
  *                don't mine while the connection is lost, so your computer's power usage goes down to idle.
  */
-"call_timeout" : 10,
-"retry_time" : 10,
+"call_timeout" : 20,
+"retry_time" : 30,
 "giveup_limit" : 0,
 
 /*
