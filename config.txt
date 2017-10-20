@@ -83,7 +83,7 @@
  *                  if a block isn't found within 30 minutes then you might run into nonce collisions. Number
  *                  of threads in this mode is hard-limited to 32.
  */
-"nicehash_nonce" : true,
+"nicehash_nonce" : false,
 
 /*
  * Manual hardware AES override
@@ -133,8 +133,8 @@
  * giveup_limit - Limit how many times we try to reconnect to the pool. Zero means no limit. Note that stak miners
  *                don't mine while the connection is lost, so your computer's power usage goes down to idle.
  */
-"call_timeout" : 20,
-"retry_time" : 30,
+"call_timeout" : 10,
+"retry_time" : 10,
 "giveup_limit" : 0,
 
 /*
