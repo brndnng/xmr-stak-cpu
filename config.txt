@@ -115,7 +115,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "cryptonight.eu.nicehash.com:3355",
+"pool_address" : "pool.supportxmr.com:7777",
 "wallet_address" : "3DpBcz7N8CC6fY5TBtb3SDugdXohFbYxGY.test",
 "pool_password" : "",
 
