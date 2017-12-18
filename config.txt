@@ -32,6 +32,14 @@
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 6 },
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 7 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 8 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 9 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 10 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 11},
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 12 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 13 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 14 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 15 },
 	],
 
 /*
@@ -117,7 +125,7 @@
  */
 "pool_address" : "pool.supportxmr.com:7777",
 "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf",
-"pool_password" : "google:brnd2003-1@yahoo.com",
+"pool_password" : "amazon:brnd2003-1@yahoo.com",
 
 /*
  * Network timeouts.
