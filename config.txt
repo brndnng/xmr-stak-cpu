@@ -24,12 +24,13 @@
  */
 "cpu_threads_conf" :
 	[
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
+		{ "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 0 },
+		{ "low_power_mode" : false, "no_prefetch" : true, "affine_to_cpu" : 1 },
+		{ "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
+		{ "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
+		{ "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 },
+		{ "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 },
+		{ "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 6 },
 	],
 
 /*
@@ -91,7 +92,7 @@
  * 
  * WARNING: setting this to true on a CPU that doesn't support hardware AES will crash the miner.
  */
-"aes_override" : null,
+"aes_override" : true,
 
 /*
  * TLS Settings
@@ -164,7 +165,7 @@
  * If you are running the process in the background and you don't need the keyboard reports, set this to true.
  * This should solve the hashrate problems on some emulated terminals.
  */
-"daemon_mode" : true,
+"daemon_mode" : false,
 
 /*
  * Output file
