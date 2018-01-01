@@ -36,6 +36,16 @@
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 9 },
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 10 },
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 11 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 12 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 13 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 14 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 15 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 16 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 17 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 18 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 19 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 20 },
+	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 21 },
 	],
 
 /*
@@ -97,7 +107,7 @@
  * 
  * WARNING: setting this to true on a CPU that doesn't support hardware AES will crash the miner.
  */
-"aes_override" : null,
+"aes_override" : true,
 
 /*
  * TLS Settings
