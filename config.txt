@@ -113,7 +113,7 @@
  */
 "pool_address" : "pool.supportxmr.com:5555",
 "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf",
-"pool_password" : "amazon4:brnd2003-1@yahoo.com",
+"pool_password" : "amazon4r4:brnd2003-1@yahoo.com",
 
 /*
  * Network timeouts.
