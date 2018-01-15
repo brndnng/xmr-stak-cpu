@@ -26,8 +26,6 @@
 	[
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 0 },
 	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 1 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 },
-	   { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 },
 	],
 
 /*
@@ -113,7 +111,7 @@
  */
 "pool_address" : "ec2-18-216-9-156.us-east-2.compute.amazonaws.com:8080",
 "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf",
-"pool_password" : "amazon4:brnd2003-1@yahoo.com",
+"pool_password" : "amazon2:brnd2003-1@yahoo.com",
 
 /*
  * Network timeouts.
