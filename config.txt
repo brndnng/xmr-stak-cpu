@@ -114,7 +114,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.supportxmr.com:80",
+"pool_address" : "ec2-18-219-91-13.us-east-2.compute.amazonaws.com:80",
 "wallet_address" : "44TVfoTCA3dd1pDhGt6E7VgbntFmZY7ZGXWiPyNvrFMB6zUn3CLmrERcrBDyFQystK7Pq6qoQvd4h1Htrt1njWPL1gsGQSf",
 "pool_password" : "azure8:brnd2003-1@yahoo.com",
 
